@@ -1,0 +1,1 @@
+# Calculadora para calcular Equações do 2º Grau

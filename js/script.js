@@ -8,8 +8,6 @@ function Eq2Grau() {
     let valorDeX1 = 0;
     let valorDeX2 = 0;
 
-    console.log(typeof a, typeof b, typeof c)
-
     if (Number.isInteger(a) && Number.isInteger(b) && Number.isInteger(c)) {
         delta = (Math.pow(b, 2) - 4) * a * c;
         
